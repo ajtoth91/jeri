@@ -1,0 +1,6 @@
+run: 
+. ~/ros2_foxy/install/local_setup.bash
+on every startup to source the ROS2 environment.
+
+When running a plain-jane python script, use
+python3 script.py
